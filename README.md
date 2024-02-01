@@ -8,3 +8,5 @@ This repo will contain tools to:
 4) do limiter corpus analysis: TOP WORDS, TF/IDF, BIGRAMS, TRIGRAMS, other
 5) import text from 2018 corpus
 6) propose tools to compare 2018 and 2024
+
+   started in 2024
