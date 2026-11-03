@@ -4,4 +4,4 @@
 commcrawl_indeed.pkl
 datasets/*
 outputs/*
-
+temp/*
